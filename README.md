@@ -10,4 +10,4 @@ Please follow the steps below to run the code.
 
 2、Set the path to the features in the json files under folder: data/config/
 
-3、Run the code by: bash run.sh
+3、Run the code by: bash run_cap.sh or run_msp.sh.
