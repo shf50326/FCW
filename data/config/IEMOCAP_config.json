@@ -1,0 +1,6 @@
+{
+  "data_root": "/home/hdu/SHF_PycharmProjects/RedCore-main/Data/IEMOCAP_features_2021",
+  "target_root": "/home/hdu/SHF_PycharmProjects//RedCore-main/Data/IEMOCAP_features_2021/target",
+  "total_cv": 10,
+  "feature_root": "/home/hdu/SHF_PycharmProjects//RedCore-main/Data/IEMOCAP_features_2021"
+}

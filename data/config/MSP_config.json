@@ -1,0 +1,6 @@
+{
+    "data_root": "/home/hdu/SHF_PycharmProjects/RedCore-main/Data/MSP-IMPROV",
+    "target_root": "/home/hdu/SHF_PycharmProjects/RedCore-main/Data/MSP-IMPROV_features_2021/target",
+    "total_cv": 12,
+    "feature_root": "/home/hdu/SHF_PycharmProjects/RedCore-main/Data/MSP-IMPROV_features_2021"
+}
