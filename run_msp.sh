@@ -1,0 +1,1 @@
+bash scripts/MSP_mmin.sh 1 0
